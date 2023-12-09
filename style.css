@@ -926,7 +926,7 @@ img {
     }
 
     .LUXERIOUS_text {
-        width: 240px;
+        /* width: 240px; */
         display: flex;
         color: #222;
         font-family: Lato;
